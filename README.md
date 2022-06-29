@@ -1,6 +1,6 @@
 # Election_Analysis
 
-#Overview of Election Audit
+# Overview of Election Audit
 With our assistance, we helped the Colorado Board of Election to count and audit for a precinct in Colorado. In addition, there were five more specific tasks that were assigned. The first task was to calculate the total number of votes that were casted. The 2nd task was to calculate the total number of votes each candidate received. The next task was to get a list of candidates who got votes. Next, we calculated the total number of votes each candidate received and finally, we determined the winner of the election based on popular vote.
 Resources
 Data Source: election_results.csv
