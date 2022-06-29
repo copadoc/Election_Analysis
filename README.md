@@ -6,9 +6,10 @@ Resources
 Data Source: election_results.csv
 Software: Python 3.8.3, Visual Studio Code 1.46.0
 
-In Summary the results were as follows:
+# In Summary the results were as follows:
 
 •	There was a total of 369,711 total votes 
+
 •	The election had 3 candidates 
   
   o	Charles C. Stockham
@@ -17,7 +18,7 @@ In Summary the results were as follows:
   
   o	Raymon Anthony Doane
 
-•	Total amount of votes by counties:
+# •	Total amount of votes by counties:
 
 o	Arapahoe: 6.7% which was 24,801 votes
 
@@ -25,7 +26,7 @@ o	Jefferson: 10.5% which was 35,855 votes
 
 o	Denver: 82.8% which was 306,055 votes
 
-•	Total of votes per candidate
+# •	Total of votes per candidate
 
 o	Charles Casper Stockham: 23.0% with 85,213 votes
 
@@ -33,7 +34,7 @@ o	 Diana DeGette: 73.8% with 272,892 votes
 
 o	 Raymon Anthony Doane: 3.1% with 11,606 votes
 
-•	Election winner
+# •	Election winner
 
 o	Diana DeGette
 
