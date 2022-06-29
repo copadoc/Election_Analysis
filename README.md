@@ -12,11 +12,11 @@ Software: Python 3.8.3, Visual Studio Code 1.46.0
 
 •	The election had 3 candidates 
   
-  o	Charles C. Stockham
+      o	Charles C. Stockham
   
-  o	Diana DeGette
+      o	Diana DeGette
   
-  o	Raymon Anthony Doane
+      o	Raymon Anthony Doane
 
 # •	Total amount of votes by counties:
 
